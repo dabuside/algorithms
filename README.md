@@ -9,7 +9,7 @@
     - [x] Karatsuba Multiplication
     - [x] Merge Sort
   - Week 2
-    - [ ] Counting Inversions
+    - [x] Counting Inversions
     - [ ] Matrix Multiplication
     - [ ] Closest Pair
   - Week 3
